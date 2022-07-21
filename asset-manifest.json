@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.eb77e797.css",
-    "main.js": "/static/js/main.7d9eea0d.js",
+    "main.js": "/static/js/main.72310780.js",
     "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
     "static/media/black_meerkat.jpg": "/static/media/black_meerkat.9c093e5fafdd7e15db84.jpg",
     "static/media/moon.svg": "/static/media/moon.ecb7726cac70b9953719.svg",
+    "static/media/mls-stats.PNG": "/static/media/mls-stats.75b8a8b00da05347fd1a.PNG",
     "static/media/nycfc.jpeg": "/static/media/nycfc.55a7a51efd33bd593418.jpeg",
     "static/media/boardgames.jpg": "/static/media/boardgames.df2054641904aa6b1749.jpg",
     "static/media/thermostat.jpg": "/static/media/thermostat.80451b0e4e03672aba37.jpg",
@@ -13,11 +14,11 @@
     "static/media/sun.svg": "/static/media/sun.542974aca38b7c2dc86f.svg",
     "index.html": "/index.html",
     "main.eb77e797.css.map": "/static/css/main.eb77e797.css.map",
-    "main.7d9eea0d.js.map": "/static/js/main.7d9eea0d.js.map",
+    "main.72310780.js.map": "/static/js/main.72310780.js.map",
     "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb77e797.css",
-    "static/js/main.7d9eea0d.js"
+    "static/js/main.72310780.js"
   ]
 }
